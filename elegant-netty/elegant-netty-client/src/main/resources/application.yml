@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: elegant-netty-client
+netty:
+  server:
+    host-ip: 192.168.62.236
+    host-port: 8090
+  client:
+    executor-port: 8080

@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ com.elegant.netty.utils.SpringContextUtil,\
+ com.elegant.netty.config.ThreadPoolConfiguration
